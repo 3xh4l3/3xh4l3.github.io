@@ -3,8 +3,8 @@
   <channel>
     <title>Jekyll Bootstrap 4 with Docker</title>
     <description>Jekyll static blog boilerplate with Bootstrap 4 and Docker</description>
-    <link>http://localhost:4000/jekyll-bootstrap4-docker/</link>
-    <atom:link href="http://localhost:4000/jekyll-bootstrap4-docker/feed.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
         <title>Hello, world!</title>
@@ -13,8 +13,8 @@
 &lt;p&gt;&lt;img src=&quot;https://i.imgur.com/DbN1EzV.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 20 Dec 2017 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/jekyll-bootstrap4-docker/hello-world/</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll-bootstrap4-docker/hello-world/</guid>
+        <link>http://localhost:4000/hello-world/</link>
+        <guid isPermaLink="true">http://localhost:4000/hello-world/</guid>
       </item>
     
       <item>
@@ -76,8 +76,8 @@
 &lt;p&gt;Cool, eh?&lt;/p&gt;
 </description>
         <pubDate>Mon, 18 Dec 2017 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/jekyll-bootstrap4-docker/features/</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll-bootstrap4-docker/features/</guid>
+        <link>http://localhost:4000/features/</link>
+        <guid isPermaLink="true">http://localhost:4000/features/</guid>
       </item>
     
   </channel>
